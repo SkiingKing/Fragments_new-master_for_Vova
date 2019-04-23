@@ -19,6 +19,7 @@
         app:itemIconTint="@color/colorWhite"
         app:itemTextColor="@color/colorWhite"
         app:menu="@menu/navigation"
+        android:backgroundTint="@color/color_4"
         android:background="@color/navigation">
 
     </android.support.design.widget.BottomNavigationView>

@@ -39,6 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
         android:layout_marginBottom="50dp"
+        android:backgroundTint="@color/color_3"
         android:src="@drawable/ic_add_black_24dp" />
     <Button
         android:id="@+id/start_words"
